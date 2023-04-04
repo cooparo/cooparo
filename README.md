@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**cooparo/cooparo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github profile! 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a 21-year-old student of Computer Engineering at the University of Padua 🎓. I absolutely love learning about new technologies, especially those that are emerging in the fields of blockchain, Bitcoin, and Economics.
+
+## What to Expect
+
+Here, you'll find a collection of my projects: everything from personal creations to class assignments. While some projects may be more polished than others, I always work hard to learn and push myself to the best of my abilities in order to produce quality work.
+
+  - [finalproject-charizard](https://github.com/andreapdn/finalproject-charizard.git) 🔥
+
+## Contact
+
+You can reach out to me anytime via email or through Github. I'm always happy to connect with fellow technology enthusiasts! 
+
+Thanks for stopping by! 😁
