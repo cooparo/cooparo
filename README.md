@@ -14,6 +14,6 @@ Here, you'll find a collection of my projects: everything from personal creation
 
 ## Contact
 
-You can reach out to me anytime via email or through Github. I'm always happy to connect with fellow technology enthusiasts! 
+You can reach out to me anytime via email or through Github ot [Telegram](https://t.me/paro_t). I'm always happy to connect with fellow technology enthusiasts! 
 
 Thanks for stopping by! 😁
