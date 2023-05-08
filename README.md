@@ -10,7 +10,7 @@ I am a 21-year-old student of **Computer Engineering at the University of Padua*
 
 Here, you'll find a collection of my projects: everything from personal creations to class assignments. While some projects may be more polished than others, I always work hard to learn and push myself to the best of my abilities in order to produce quality work.
 
-  - [eis-app](https://github.com/cooparo/eis-app.git) (Java)🔥
+  - [eis-app](https://github.com/cooparo/eis-app.git) (Java)
 
 ## Contact
 
