@@ -4,7 +4,8 @@ Welcome to my Github profile!
 
 ## About Me
 
-I am a 21-year-old student of **Computer Engineering at the University of Padua** 🎓. I absolutely love learning about new technologies, especially those that are emerging in the fields of privacy, Bitcoin, and Economics.
+I am a 21-year-old student of **Computer Engineering at the University of Padua** 🎓. I absolutely love learning about new technologies, especially those that are emerging in the fields of privacy, <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="Bitcoin logo" width="16" height="16">
+ Bitcoin, and Economics.
 
 ## What to Expect
 
