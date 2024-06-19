@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paro</h1>
 <h3 align="center">Computer Eng. Student and tech entusiast.</h3>
 
-- 📫 How to reach me **cooparo@proton.me**
+- 📫 How to reach me **github.devotion496@aleeas.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
