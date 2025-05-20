@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paro</h1>
-<h3 align="center">Computer Eng. and bitcoin entusiast.</h3>
+<h3 align="center">Computer Eng. and Bitcoin entusiast.</h3>
 
 - 📫 How to reach me **github.ambitious226@slmails.com**
 
